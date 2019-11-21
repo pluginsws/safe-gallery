@@ -1,2 +1,2 @@
-# safe-gallery
+# Safe Gallery
 Safe Gallery Plugin for WordPress
